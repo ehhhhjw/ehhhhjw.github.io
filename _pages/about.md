@@ -12,5 +12,5 @@ Education
 
 Work Experience
 ======
-Work for the ACoder team
+One of the members of the ACoder team
 
