@@ -9,27 +9,25 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Xi Zhang"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://zhangxi999.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://ehhhhjw.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhangxi999/zhangxi999.github.io"
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "mmexport1747640285964 2.png"
-  name             : "Xi Zhang"
-  pronouns         : # example: "she/her"  
-  bio              : "Hungry and Humble"
-  #location         : "Earth"
-  #employer         : "Red Brick University"
-  uri              : # URL
-  #email            : "none@example.org" 
+  avatar           : "my_pic.jpg"
+  name             : "Jiawei He"
+  bio              : "Think deeply, act carefully, speak wisely"
+  location         : "China"
+  employer         : "Alibaba"
+  email            : "yofu.hjw@alibaba-inc.com" 
 
   # Academic websites
   academia         : # URL
