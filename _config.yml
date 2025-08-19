@@ -26,7 +26,7 @@ author:
   name             : "Xi Zhang"
   pronouns         : # example: "she/her"  
   bio              : "One of the members of the ACoder team"
-  location         : "Earth"
+  #location         : "Earth"
   #employer         : "Red Brick University"
   uri              : # URL
   #email            : "none@example.org" 
